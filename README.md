@@ -1,5 +1,5 @@
 # DSfIOT_MeetUps
-Dataset and Notebooks for the Data Science for the Internet of Things MeetUp on 27 October 2018. This MeetUp will cover an end to end machine learning problem.
+Dataset and Notebooks for the **Data Science for the Internet of Things MeetUp** on 27 October 2018. This MeetUp will cover an end to end machine learning problem.
 
 This repository will feature:
 
